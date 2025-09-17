@@ -3,7 +3,7 @@ Crie uma lista de números e utilize um loop for para calcular a soma de todos o
 Utilize um bloco try-except para lidar com possíveis exceções.
 """
 
-lista_numeros = [10, 5, 8, 3, 7]
+lista_numeros = [9, 5, 8, 3, 7]
 soma = 0
 
 try:
